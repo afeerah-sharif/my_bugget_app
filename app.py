@@ -1,4 +1,3 @@
-
 """
 Smart Budget Advisor & Expense Analyzer
 A complete Streamlit web application for personal budget management.
